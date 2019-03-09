@@ -7,7 +7,7 @@ Contiene como ejemplo peticiones a:
 - GOOGLE STATIC MAP
 
 Para que funcionen las peticiones a las APIs de google 
-hay que cambiar la variable $apiKey del fichero Funciones.php 
+hay que cambiar la variable $apiKey del fichero index.php 
 e indicar la que nos haya facilitado google.
 
 Para ver cómo conseguir la api key de google y cómo se ha realizado gran 
